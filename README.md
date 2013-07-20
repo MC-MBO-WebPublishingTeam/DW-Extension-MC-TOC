@@ -1,4 +1,4 @@
-SlideoutTOC.js: create a table of contents for a document.
+SlideoutTOC.js: create a table of contents for a HTML document.
 
 This module registers an anonymous function that runs automatically when the document finishes loading. When it runs, the function first looks for a document element with an id of "TOC". If there is no such element it creates one at the start of the document.
 
